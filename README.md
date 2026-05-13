@@ -22,14 +22,8 @@
 * 
 **编程语言**：Python (NumPy, PyFFT) 
 
-
 * 
-**配置管理**：Hydra 
-
-
-* 
-**模型接口**：DeepSeek / Claude API 
-
+**模型接口**： Claude API 
 
 * 
 **数学核心**：偏微分方程数值解、数值分析（收敛性理论） 
